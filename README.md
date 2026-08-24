@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UX/UI and expanding my python skills
 - 💞️ I’m looking to collaborate on coding and design project
 - 📫 You reach me at:
-- okmandyofficial@gmail.com
+- mandeeppaudel00@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: code is my favorite way to give back.
 
