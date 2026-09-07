@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mandeep-Khatri
-- 👀 I’m interested in coding including python, java, java script and C++
+- 👀 I’m interested in coding including python, java, JavaScript and C++
 - 🌱 I’m currently learning UX/UI and expanding my python skills
 - 💞️ I’m looking to collaborate on coding and design project
 - 📫 You reach me at:
